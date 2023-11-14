@@ -1,0 +1,21 @@
+*{
+    margin: O;
+    padding:0;
+    box-sizing: border-box;
+}
+header{
+    background-image: url(img/pattern.png);
+    background-color: rgb(84, 137, 249);
+    background-size:25%;
+    padding-top: 50px;
+}
+
+h6{
+    color:grey;
+}
+.the-booleaner{
+    color: rgb(31, 106, 191);
+}
+.data{
+    font-size:10px;
+}
