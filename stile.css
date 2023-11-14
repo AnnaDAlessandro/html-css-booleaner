@@ -22,7 +22,7 @@ h6{
 .data{
     font-size:10px;
 }
-caption{
+.caption{
     font-size: 8px;
 }
 .sottolineatura{
@@ -30,4 +30,15 @@ caption{
 }
 ul{
     margin: 10px;
+}
+thead{
+    background-color: rgb(104, 149, 247);
+    color:white;
+    text-align: left;
+}
+.text{
+    width:40%;
+}
+.dispari{
+    background-color:lightskyblue;
 }
