@@ -42,3 +42,17 @@ thead{
 .dispari{
     background-color:lightskyblue;
 }
+.immagini{
+    width:150px;
+    height:150px;
+    color:white;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+#immagine1{
+    background-image:url(img/monitor.jpg);
+}
+#immagine2{
+    background-image: url(img/graph.jpg);
+}
